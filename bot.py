@@ -42,4 +42,4 @@ async def on_message(message):
         await message.channel.send("공지 테스트 입니다")
 
 client.loop.create_task(change_status())
-client.run("NTg5Njk5MDE0MzU4ODU5Nzg2.XRX7Vg.S1nxRN0QsL2Q9cEBTvN3SsmE1AM")
+client.run("토큰 유출!!!!!!")
